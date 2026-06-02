@@ -2322,7 +2322,7 @@ function discordChatTest() {
 
 
     <div class="headerdraggable" id="draggable">
-        <button class="action_button" onclick="openExternalLink('blooketbot.glitch.me/credits/discordchatlink')">📃</button>
+        <button class="action_button" onclick="openExternalLink('blooket-bot.vercel.app/credits/discordchatlink')">📃</button>
         <button class="action_button_draggable" id="draggable">⇌</button>
         <button class="action_button" onclick="closediscordchat()">X</button>
     </div>
